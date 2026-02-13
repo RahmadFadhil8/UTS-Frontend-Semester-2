@@ -1,4 +1,4 @@
-#E-Commerce Web App – Project UTS
+# E-Commerce Web App – Project UTS
 
 Project ini hasil Ujian Tengah Semester (UTS) mata kuliah Pengembangan Web Front-End menggunakan HTML dan CSS
 
@@ -22,4 +22,5 @@ berikut tampilan E-Commerce
 <img width="1898" height="854" alt="Screenshot 2026-02-13 201314" src="https://github.com/user-attachments/assets/7073ff43-289c-48ca-aed3-49d37e18c0ce" />
 <img width="1885" height="857" alt="Screenshot 2026-02-13 201305" src="https://github.com/user-attachments/assets/7325f3f3-98fa-44ea-84fd-4bf82f5a4b3f" />
 <img width="1893" height="851" alt="Screenshot 2026-02-13 201258" src="https://github.com/user-attachments/assets/6d4c0943-6c4a-44c4-9229-d728490d63e4" />
+
 
